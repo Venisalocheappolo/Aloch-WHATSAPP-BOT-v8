@@ -20,13 +20,12 @@ global.symb2 = '▎ █' // 👈 Enter Any ▬▓▌▎■
 global.symb3 = '▬' // 👈 Enter Any ▅ ▂ ▁ ▊
 global.emoji02 = ['🦋'] //👈 Enter your Emoji
 global.notice = ` *Hi 🥰 I m*
-*ＮＯＩＺ Ξ*
-*I am 16 years old developer...*
-*From Sri Lanka 🇱🇰*
-*I am a Learning.*
+*★Ꭾ☯Ꮭ☯★꧁ILYAṨAYAᶜH Ξ*
+*I am 15 years old developer...*
+*خوك من طنجة*
 *Not more..*
-*Also I am Student*
-*Follow My Facebook - https://www.facebook.com/zenoixnoize*`  // 👈 Enter Your details and Social Media Links and Anything
+*كتمنى تعجبك لخدمة ديانا*
+*Follow My Email - ilyasayach2008@gmail.com *`  // 👈 Enter Your details and Social Media Links and Anything
 global.owner =  ['+212614564888'] //👈  Enter Your number
 global.premium =  ['+212614564888'] //👈  Enter Your number
 global.ownernomer = '+212614564888' //👈  Enter Your number
