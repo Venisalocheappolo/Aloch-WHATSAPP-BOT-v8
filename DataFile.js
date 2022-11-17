@@ -27,26 +27,26 @@ global.notice = ` *Hi 🥰 I m*
 *Not more..*
 *Also I am Student*
 *Follow My Facebook - https://www.facebook.com/zenoixnoize*`  // 👈 Enter Your details and Social Media Links and Anything
-global.owner =  ['+94711502119'] //👈  Enter Your number
-global.premium =  ['+94711502119'] //👈  Enter Your number
-global.ownernomer = '+94711502119' //👈  Enter Your number
-global.ownername = 'ZENOI' //👈 Enter Your name
-global.botname = 'ＧＡＲＦＩＥＬＤ ＢＯＴ' //👈 Enter Your Bot name
-global.footer = '© 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 𝖦𝖺𝗋𝖿𝗂𝖾𝗅𝖽 𝖡𝗈𝗍' //👈 Enter Your Name
-global.ig = 'https://github.com/Zenoixnoize/GARFIELD-WHATSAPP-BOT-v8' // 👈 You Can change this your choice
-global.region = 'India, South India, Kerala' // 👈 You Can change this your choice
-global.sc = 'https://github.com/Zenoixnoize/GARFIELD-WHATSAPP-BOT-v8'
-global.fbt = 'Follw Us ℹ️' // 👈 Enter (Subscribe/Follow/Like now)
-global.myweb = 'https://www.facebook.com/garfieldbots/'// 👈 Enter your Social media link to follow now button
+global.owner =  ['+212614564888'] //👈  Enter Your number
+global.premium =  ['+212614564888'] //👈  Enter Your number
+global.ownernomer = '+212614564888' //👈  Enter Your number
+global.ownername = '★Ꭾ☯Ꮭ☯★꧁ILYAṨAYAᶜH ❿' //👈 Enter Your name
+global.botname = '〖AᖘᖘOŁŁO〗 ♋ ⓍⓍⓋⓋⒾⒾ ♎𝓫𝓸𝓽' //👈 Enter Your Bot name
+global.footer = '© 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 aloch 𝖡𝗈𝗍' //👈 Enter Your Name
+global.ig = 'For any question my email: ilyasayach2008@gmail.com' // 👈 You Can change this your choice
+global.region = 'ALL REGIONS' // 👈 You Can change this your choice
+global.sc = 'For any problem my whatsapp numbers: +212614564888'
+global.fbt = 'Follw Us ℹ️ INSTAGRAM ilyas_ayach ' // 👈 Enter (Subscribe/Follow/Like now)
+global.myweb = 'https://www.facebook.com/ilyas-ayach/'// 👈 Enter your Social media link to follow now button
 global.welcome = '*Welcome To The Group 🦋*' // 👈 You Can change this your choice
 global.bye = '*Bye bye Mother fucker 🐼*' // 👈 You Can change this your choice
-global.packname = 'GARFIELD-BOTv8'  // 👈 You Can change this your choice 
-global.author = 'NOIZE DEVELOPMENT' // 👈 You Can change this your choice 
+global.packname = '〖AᖘᖘOŁŁO〗 ♋ ⓍⓍⓋⓋⒾⒾ ♎𝓫𝓸𝓽'  // 👈 You Can change this your choice 
+global.author = 'AYACH DEVELOPMENT' // 👈 You Can change this your choice 
 global.sessionName = 'session' // 👈 You Can change this your choice
 global.prefa = ['','!','.','🛰️','⚓','🍎'] // 👈 You Can change this your choice
 //Go to https://imgbb.com/, upload a photo of your choice and put its link here
-global.thumb =  'https://i.ibb.co/Jz0mMnC/Pics-Art-22-06-03-01-01-46-876.png' 
-global.spoty = 'https://i.postimg.cc/HW2YbN1b/Pics-Art-22-08-09-16-12-14-489.png'
+global.thumb =  'https://i.ibb.co/1X2Pn5D/IMG-20221115-WA0162.jpg' 
+global.spoty = 'https://i.ibb.co/1X2Pn5D/IMG-20221115-WA0162.jpg'
 //Go to https://imgbb.com/, upload a photo of your choice and put its link here
 global.sp = '⭔'
 global.mess = {
