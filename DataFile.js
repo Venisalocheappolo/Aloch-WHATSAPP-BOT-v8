@@ -26,15 +26,15 @@ global.notice = ` *Hi 🥰 I m*
 *Not more..*
 *كتمنى تعجبك لخدمة ديانا*
 *Follow My Email - ilyasayach2008@gmail.com *`  // 👈 Enter Your details and Social Media Links and Anything
-global.owner =  ['+212614564888'] //👈  Enter Your number
-global.premium =  ['+212614564888'] //👈  Enter Your number
-global.ownernomer = '+212614564888' //👈  Enter Your number
-global.ownername = '★Ꭾ☯Ꮭ☯★꧁ILYAṨAYAᶜH ❿' //👈 Enter Your name
+global.owner =  ['+212638964030'] //👈  Enter Your number
+global.premium =  ['+212638964030'] //👈  Enter Your number
+global.ownernomer = '+212638964030' //👈  Enter Your number
+global.ownername = 'ILYASSE ❿' //👈 Enter Your name
 global.botname = '〖AᖘᖘOŁŁO〗 ♋ ⓍⓍⓋⓋⒾⒾ ♎𝓫𝓸𝓽' //👈 Enter Your Bot name
 global.footer = '© 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 aloch 𝖡𝗈𝗍' //👈 Enter Your Name
 global.ig = 'For any question my email: ilyasayach2008@gmail.com' // 👈 You Can change this your choice
 global.region = 'ALL REGIONS' // 👈 You Can change this your choice
-global.sc = 'For any problem my whatsapp numbers: +212614564888'
+global.sc = 'For any problem my whatsapp numbers: +212614564888 ★Ꭾ☯Ꮭ☯★꧁ILYAṨAYAᶜH'
 global.fbt = 'Follw Us ℹ️ INSTAGRAM ilyas_ayach ' // 👈 Enter (Subscribe/Follow/Like now)
 global.myweb = 'https://www.facebook.com/ilyas-ayach/'// 👈 Enter your Social media link to follow now button
 global.welcome = '*Welcome To The Group 🦋*' // 👈 You Can change this your choice
